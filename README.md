@@ -27,7 +27,7 @@
 ---
 
 ### :woman_technologist: About Me :
-- :ok_hand: CTO & Senior Web Developer at Esterox
+- :ok_hand: Senior Web Developer
 - :point_right: I am a seasoned Senior Full Stack Developer and CTO with an impressive 11-year background in diverse project development across a range of technologies. My technical proficiency is anchored in Core PHP, OOP MVC, and PHP frameworks like Laravel and Phalcon, alongside strong capabilities in Python, JavaScript, Node.js, Express.js, and NestJS. My skill set extends to sophisticated web client-server and application development, with a focus on web services such as RESTful API and GraphQL.
 
 - :point_right: As a front-end expert, I am well-versed in JavaScript frameworks including Angular, Vue.js, and React.js. In recent times, I have been honing my Python skills, particularly in FastAPI, Data Analysis, Machine Learning, Deep Learning, and Artificial Intelligence.
