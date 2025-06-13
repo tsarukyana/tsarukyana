@@ -27,21 +27,15 @@
 ---
 
 ### :woman_technologist: About Me :
-- :ok_hand: Senior Web Developer
-- :point_right: I am a seasoned Senior Full Stack Developer and CTO with an impressive 11-year background in diverse project development across a range of technologies. My technical proficiency is anchored in Core PHP, OOP MVC, and PHP frameworks like Laravel and Phalcon, alongside strong capabilities in Python, JavaScript, Node.js, Express.js, and NestJS. My skill set extends to sophisticated web client-server and application development, with a focus on web services such as RESTful API and GraphQL.
-
-- :point_right: As a front-end expert, I am well-versed in JavaScript frameworks including Angular, Vue.js, and React.js. In recent times, I have been honing my Python skills, particularly in FastAPI, Data Analysis, Machine Learning, Deep Learning, and Artificial Intelligence.
-
-- :point_right: My role as a CTO and Team Lead has further enriched my professional journey. In these leadership capacities, I have been instrumental in steering software development architecture. This involves meticulously designing and implementing scalable software solutions, integrating best practices in system architecture, and aligning technical strategies with overarching business goals. My ability to create architectural blueprints and guide development teams through intricate software lifecycle stages is a testament to my strong leadership and management skills.
-
-- :point_right: My proficiency extends to tools and platforms such as Git, Ubuntu GNU/Linux, cloud services (AWS, GCP, Azure), Docker, Docker-Compose, Kubernetes, and various control systems (SSH, SFTP, FTP, cPanel).
-
-- :point_right: My academic background includes a Master's degree in Radiophysics and Electronics from Yerevan State University (2005-2011). My comprehensive expertise in full-stack development, particularly in Python, PHP, Node.js, and JavaScript frameworks, is underpinned by a deep understanding of database management systems, web services, software architecture principles, and a solid track record in team leadership and management.
-
-- :point_right: Design Principles: Possess a deep understanding of object-oriented design principles and patterns.
-- :point_right: Leadership & Collaboration: Experienced in documentation, estimations, team leadership, and aligning with Agile development methodologies. 
-- :point_right: Language Proficiency: Command a B2 level in English, ensuring smooth communication in diverse teams.
-- :point_right: Client-Centric: My excellent communication skills are underpinned by my customer support experience, always prioritizing effective problem-solving.
+- :ok_hand: Senior Web Developer with 11+ years of full-stack experience.
+- :point_right: Expert in PHP (Laravel, Phalcon), Node.js (Express.js, NestJS), and Python (FastAPI, Django, Flask).
+- :point_right: Skilled in React, Angular and Vue.js for building responsive front‑end applications.
+- :point_right: Strong background in RESTful and GraphQL APIs, microservices and real-time solutions.
+- :point_right: Adept at system architecture and DevOps with Docker, Kubernetes and deployments on AWS, GCP and Azure.
+- :point_right: Experienced with MySQL, PostgreSQL, MongoDB, Redis and related ORM tools.
+- :point_right: Proven CTO and Team Lead, guiding Agile teams and ensuring high-quality delivery.
+- :point_right: B2 English communicator with excellent client-focused problem-solving skills.
+- :point_right: Master's degree in Radiophysics and Electronics from Yerevan State University (2005‑2011).
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/tsarukyana-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/tsarukyana)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tsarukyana&layout=compact&theme=vision-friendly-dark)](https://github.com/tsarukyana/github-readme-stats)
