@@ -34,6 +34,10 @@
 - :point_right: Adept at system architecture and DevOps with Docker, Kubernetes and deployments on AWS, GCP and Azure.
 - :point_right: Experienced with MySQL, PostgreSQL, MongoDB, Redis and related ORM tools.
 - :point_right: Technologies: Python, FastAPI, Django, Flask, PostgreSQL, Vector Database (Qdrant), OpenAI integration (prompt, embeddings, fine-tuning) with the BAAI/bge-m3 model.
+- :point_right: RAG Architecture: Retrieval Augmented Generation implementation.
+- :point_right: Vector Databases: Chroma, Pinecone, or similar vector storage systems.
+- :point_right: Prompt Engineering: Optimizing LLM interactions for specific use cases.
+- :point_right: LLM Integration: Working with OpenAI, Gemini APIs, and self-hosted models like Llama.
 - :point_right: Proven CTO and Team Lead, guiding Agile teams and ensuring high-quality delivery.
 - :point_right: B2 English communicator with excellent client-focused problem-solving skills.
 - :point_right: Master's degree in Radiophysics and Electronics from Yerevan State University (2005‑2011).
