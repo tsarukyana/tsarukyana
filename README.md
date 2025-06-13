@@ -33,6 +33,7 @@
 - :point_right: Strong background in RESTful and GraphQL APIs, microservices and real-time solutions.
 - :point_right: Adept at system architecture and DevOps with Docker, Kubernetes and deployments on AWS, GCP and Azure.
 - :point_right: Experienced with MySQL, PostgreSQL, MongoDB, Redis and related ORM tools.
+- :point_right: Technologies: Python, FastAPI, Django, Flask, PostgreSQL, Vector Database (Qdrant), OpenAI integration (prompt, embeddings, fine-tuning) with the BAAI/bge-m3 model.
 - :point_right: Proven CTO and Team Lead, guiding Agile teams and ensuring high-quality delivery.
 - :point_right: B2 English communicator with excellent client-focused problem-solving skills.
 - :point_right: Master's degree in Radiophysics and Electronics from Yerevan State University (2005‑2011).
