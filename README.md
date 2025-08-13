@@ -28,7 +28,7 @@
 
 ### :woman_technologist: About Me :
 - :ok_hand: Senior Web Developer with 11+ years of full-stack experience.
-- :point_right: Expert in PHP (Laravel, Phalcon), Node.js (Express.js, NestJS), and Python (FastAPI, Django, Flask).
+- :point_right: Expert in PHP (Laravel, Phalcon) and Python (FastAPI, Django, Flask).
 - :point_right: Skilled in React, Angular and Vue.js for building responsive front‑end applications.
 - :point_right: Strong background in RESTful and GraphQL APIs, microservices and real-time solutions.
 - :point_right: Adept at system architecture and DevOps with Docker, Kubernetes and deployments on AWS, GCP and Azure.
