@@ -43,8 +43,6 @@
 - :point_right: Master's degree in Radiophysics and Electronics from Yerevan State University (2005‑2011).
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/tsarukyana-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/tsarukyana)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tsarukyana&layout=compact&theme=vision-friendly-dark)](https://github.com/tsarukyana/github-readme-stats)
-
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
