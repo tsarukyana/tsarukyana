@@ -27,17 +27,20 @@
 ---
 
 ### :woman_technologist: About Me :
-- :ok_hand: Senior Web Developer with 11+ years of full-stack experience.
+- :ok_hand: Senior Full-Stack Web, Software & AI Developer with 13+ years of experience.
 - :point_right: Expert in PHP (Laravel, Phalcon) and Python (FastAPI, Django, Flask).
+- :point_right: Current focus: Python applications (FastAPI, Django, Flask) integrated with AI/LLM, ML and DL tools.
 - :point_right: Skilled in React, Vue.js for building responsive front‑end applications.
 - :point_right: Strong background in RESTful and GraphQL APIs, microservices and real-time solutions.
 - :point_right: Adept at system architecture and DevOps with Docker, Kubernetes and deployments on AWS, GCP and Azure.
 - :point_right: Experienced with MySQL, PostgreSQL, MongoDB, Redis and related ORM tools.
-- :point_right: Technologies: Python, FastAPI, Django, Flask, PostgreSQL, Vector Database (Qdrant), OpenAI integration (prompt, embeddings, fine-tuning) with the BAAI/bge-m3 model.
+- :point_right: Technologies: Python, FastAPI, Django, Flask, PostgreSQL, Vector Database (Qdrant), OpenAI integration (prompts, embeddings, fine-tuning) and the BAAI/bge-m3 embedding model.
 - :point_right: RAG Architecture: Retrieval Augmented Generation implementation.
-- :point_right: Vector Databases: Chroma, Pinecone, or similar vector storage systems.
+- :point_right: Vector Databases: Qdrant, Chroma, Pinecone.
 - :point_right: Prompt Engineering: Optimizing LLM interactions for specific use cases.
-- :point_right: LLM Integration: Working with OpenAI, Gemini APIs, and self-hosted models like Llama.
+- :point_right: LLM Integration: Working with OpenAI, Anthropic Claude and Google Gemini APIs, and self-hosted models like Llama.
+- :point_right: AI Agents: Building LLM-powered agents in Python with Pydantic AI.
+- :point_right: AI-Assisted Development: Using Claude Code (Anthropic's agentic coding tool) in day-to-day development.
 - :point_right: Proven CTO and Team Lead, guiding Agile teams and ensuring high-quality delivery.
 - :point_right: B2 English communicator with excellent client-focused problem-solving skills.
 - :point_right: Master's degree in Radiophysics and Electronics from Yerevan State University (2005‑2011).
@@ -94,8 +97,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/sqlalchemy/sqlalchemy-original.svg" title="sqlalchemy" alt="sqlalchemy" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/pytest/pytest-original.svg" title="pytest" alt="pytest" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" title="selenium" alt="selenium" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/openal/openal-original.svg" title="openal" alt="openal" width="40" height="40"/>&nbsp;
-
 
   <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg"  title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg"  title="tailwindcss" alt="tailwindcss" width="40" height="40"/>&nbsp;
@@ -155,14 +156,17 @@
 ### :robot: AI & LLM Stack :
 <div>
   <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI"/>
+  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude"/>
   <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini"/>
-  <img src="https://img.shields.io/badge/Llama-000000?style=for-the-badge&logo=ollama&logoColor=white" alt="Llama"/>
+  <img src="https://img.shields.io/badge/Llama-0467DF?style=for-the-badge&logo=meta&logoColor=white" alt="Llama"/>
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain"/>
+  <img src="https://img.shields.io/badge/Pydantic%20AI-E92063?style=for-the-badge&logo=pydantic&logoColor=white" alt="Pydantic AI"/>
   <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"/>
   <img src="https://img.shields.io/badge/RAG-4B8BBE?style=for-the-badge" alt="RAG"/>
   <img src="https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge&logo=qdrant&logoColor=white" alt="Qdrant"/>
   <img src="https://img.shields.io/badge/Chroma-FF6F61?style=for-the-badge" alt="Chroma"/>
   <img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge" alt="Pinecone"/>
+  <img src="https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude Code"/>
 </div>
 
 ---
